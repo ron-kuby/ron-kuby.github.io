@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dataandthedu.de/categories/</loc>
+    <loc>https://dataandthedu.de/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dataandthedu.de/tags/</loc>
+    <loc>https://dataandthedu.de/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dataandthedu.de/</loc>
+    <loc>https://dataandthedu.de/</loc>
     <priority>0</priority>
   </url>
   
