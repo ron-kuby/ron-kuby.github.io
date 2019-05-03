@@ -23,11 +23,11 @@ Originally invented in 1963 by two Russian dudes, Vladimir Vapnik and Alexey Che
     
     <item>
       <title></title>
-      <link>http://devandthedu.de/search/placeholder/</link>
+      <link>http://devandthedu.de/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://devandthedu.de/search/placeholder/</guid>
-      <description></description>
+      <guid>http://devandthedu.de/search/</guid>
+      <description>dev_and_the_dude-Web Development Blog      Toggle navigation     dev_and_the_dude   Home   Data   SEARCH         var $body = document.body; var $toggle = document.querySelector(&#39;.navbar-toggle&#39;); var $navbar = document.querySelector(&#39;#huxblog_navbar&#39;); var $collapse = document.querySelector(&#39;.navbar-collapse&#39;); $toggle.addEventListener(&#39;click&#39;, handleMagic) function handleMagic(e){ if ($navbar.className.indexOf(&#39;in&#39;)  0) { $navbar.className = &#34; &#34;; setTimeout(function(){ if($navbar.className.indexOf(&#39;in&#39;) dev_and_the_dude  the web abides      Support Vector Machines, for Bowlers  Support Vector Machine History The goal of this post is to explain how a Support Vector Machine works and how it relates to bowling.</description>
     </item>
     
   </channel>
