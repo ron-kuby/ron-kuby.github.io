@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data on dev_and_the_dude</title>
-    <link>http://devandthedu.de/tags/data/</link>
+    <link>https://devandthedu.de/tags/data/</link>
     <description>Recent content in Data on dev_and_the_dude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://devandthedu.de/tags/data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devandthedu.de/tags/data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Support Vector Machines, for Bowlers</title>
-      <link>http://devandthedu.de/post/hello/</link>
+      <link>https://devandthedu.de/post/hello/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://devandthedu.de/post/hello/</guid>
-      <description>Support Vector Machine History The goal of this post is to explain how a Support Vector Machine works and how it relates to bowling. If you are looking for a complex, math intensive delve into SVMs, links will be provided at the end as this will mostly be an abstraction.
-Originally invented in 1963 by two Russian dudes, Vladimir Vapnik and Alexey Chervonenkis, Support Vector Machines aim was to provide a method for classification of new data points provided data is already known</description>
+      <guid>https://devandthedu.de/post/hello/</guid>
+      <description>Test Post This post is for testing purposes to get the search functionality working with this blog</description>
     </item>
     
   </channel>
